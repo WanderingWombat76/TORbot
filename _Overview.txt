@@ -1,0 +1,42 @@
+(initial plan, subject to change)
+Initial setup and infrastructure
+
+1 Set up a Discord server and create a bot account.
+    Establish a code repository for version control and collaboration.
+    Choose a programming language and library for creating the bot.
+
+2 Basic dice rolling functionality
+    Implement a command to roll the Feat die and Success dice with any modifier.
+    Allow users to specify the number of dice and any modifiers.
+
+3 Character sheet management
+    Enable users to create, edit, and save character sheets within the bot.
+    Implement commands for updating character attributes and stats.
+    Allow users to view their character sheets at any time.
+
+4 Combat resolution system
+    Implement combat mechanics, including initiative, attack rolls, damage, and defense.
+    Create a system for tracking combatants' health and status effects.
+
+5 Journey mechanics
+    Implement the Journey Event Table and related rules.
+    Create a system for managing journey progress and hazards.
+
+6 Councils and Fellowship Phases
+    Implement rules for Councils, including setting Resistance and Interaction.
+    Develop a system for managing Fellowship Phases, including Undertakings and Advancement.
+
+7 Loremaster tools
+    Create commands for the Loremaster to manage NPCs, encounters, and story elements.
+    Implement a system for managing game sessions, including saving and loading game states.
+
+8 Full rule integration
+    Implement any remaining rules from "The One Ring" not yet covered by the bot.
+    Thoroughly test the bot to ensure all rules are accurately represented.
+
+9 User experience improvements
+    Enhance the bot's user interface, making it more user-friendly and visually appealing.
+    Add help documentation and command explanations for users.
+
+10 Final touches and deployment
+    Perform final testing and bug fixing.
